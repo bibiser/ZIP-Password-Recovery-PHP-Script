@@ -23,7 +23,7 @@ This PHP script is an **educational tool** designed to demonstrate brute-force p
 3. Run the script using:  
    ```sh
    php script.php
-
+``
    If the password is found, the contents will be extracted into the unzipped folder.
 ## ⚠ Legal & Ethical Notice
 This script is intended only for educational and testing purposes on files you legally own. Unauthorized usage against third-party data is illegal and unethical. Use responsibly!
