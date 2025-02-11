@@ -34,4 +34,4 @@ This project is released under the MIT License. See LICENSE for details.
 ## 🙏 Acknowledgments
 Special thanks to the open-source community for knowledge-sharing and ethical hacking education.
 
-This README clearly explains the purpose, usage, and legal disclaimer while making it professional for GitHub. Let me know if you need any modifications! 🚀
+This README clearly explains the purpose, usage, and legal disclaimer while making it professional for GitHub! 🚀
